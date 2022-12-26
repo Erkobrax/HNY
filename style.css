@@ -137,9 +137,12 @@ ul li:hover {
     margin: auto;
 }
 
-.mySlides img{
-    height: 740px;
-    width: 1280px;
+img {
+    height: auto;
+    width: 100%;
+    /* еще больше контроля с max-width */
+    max-width: 720px;
+    margin-left: 5px;
 }
 
 .container_contacts{
