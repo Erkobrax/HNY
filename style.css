@@ -239,6 +239,8 @@ strong {
     background-color: green;
     border: 3px  solid;
     border-left: 2px solid#DD0000;
+    height: 40px;
+    width: 50px;
 
 }
 .animation{
