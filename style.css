@@ -139,7 +139,7 @@ ul li:hover {
 
 img {
     height: auto;
-    width: 100%;
+    width: auto;
     /* еще больше контроля с max-width */
     max-width: 720px;
     margin-left: 5px;
