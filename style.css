@@ -236,6 +236,10 @@ strong {
 }
 #but {
     position: fixed;
+    background-color: green;
+    border: 3px  solid;
+    border-left: 2px solid#DD0000;
+
 }
 .animation{
     display: inline-block;
